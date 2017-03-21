@@ -1,0 +1,22 @@
+{
+  "name": "hw1",
+  "homepage": "https://github.com/DilyaZaripova/gulp-hw1",
+  "authors": [
+    "Dilya <fooont@bk.ru>"
+  ],
+  "description": "gulp hw1",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "jquery": "^3.2.1",
+    "normalize-css": "normalize.css#^5.0.0"
+  }
+}
